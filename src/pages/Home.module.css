@@ -1,0 +1,7 @@
+.homeContent {
+    width: 60%;
+    height: 100%;
+    padding: 3rem;
+    flex-direction: column;
+    box-sizing: border-box;
+}

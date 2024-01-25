@@ -1,0 +1,27 @@
+.loginForm {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 20rem;
+}
+
+.loginInput {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.errorText {
+    width: 100%;
+    color: red;
+    font-size: 0.8rem;
+    text-align: start;
+    margin: 0.3rem 0 0 0;
+}
+
+.errorInput {
+    border-color: red;
+}
+
+.loginBtn {
+    margin-top: 0.8rem;
+}

@@ -8,4 +8,5 @@
   border-left: 1px solid black;
   border-right: 2px solid black;
   padding-right: 10px;
+  box-sizing: border-box;
 }

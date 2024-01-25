@@ -1,0 +1,22 @@
+.btn {
+    height: 2rem;
+    border: 0;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    box-shadow: #cfcfcf 0 0 0.3rem;
+}
+
+.primaryBtn {
+    background-color: #0055A2;
+    color: white;
+}
+
+.outlineBtn {
+    background-color: white;
+    color: #0055A2;
+    border: #0055A2 0.001rem solid;
+}
+
+.btn:hover {
+    opacity: 0.8;
+}

@@ -1,0 +1,24 @@
+.tabList {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #CDD4E0;
+    min-width: 20rem;
+    height: 2.5rem;
+    border-radius: 0.3rem;
+}
+
+.tabTrigger {
+    cursor: pointer;
+    height: 80%;
+    width: 46%;
+    padding: 0 0.3rem;
+    border-radius: 0.3rem;
+    transition: background-color 0.1s ease;
+}
+
+.tabActive {
+    background-color: #0055A2;
+    color: white;
+    box-shadow: #7d7d7d 0 0 0.3rem;
+}
